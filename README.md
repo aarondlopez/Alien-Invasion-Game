@@ -1,1 +1,1 @@
-# Classic alien invasion video game
+# Classic alien invasion video game from Python Crash Course
